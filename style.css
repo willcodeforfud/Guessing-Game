@@ -1,0 +1,19 @@
+#randomText {
+  margin-bottom: 10px;
+}
+
+#card {
+  border: 1px solid black;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+#quiz {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+#score {
+  font-weight: bold;
+  margin-top: 10px;
+}
